@@ -4,12 +4,12 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        x = str(x)
-        for i in range(len(x)//2):
-            if x[i] == x[len(x)-i-1]:
-                continue
-            else:
-                return False
-        else:
-            return True
+        if (x<0 or (x%10==0 and x != 0)):
+            return False
+        reverted = 0
+        while x > reverted:
+            reverted = reverted * 10 + x % 10
+            x /= 10
+        return x == reverted or x == reverted//10
+        
         
