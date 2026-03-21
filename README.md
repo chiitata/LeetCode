@@ -24,13 +24,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chiitata/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiitata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiitata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chiitata/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
