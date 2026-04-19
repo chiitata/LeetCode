@@ -18,5 +18,4 @@ class Solution:
             depth = max(count, depth)
             que.append((leaf.right, count+1))
             que.append((leaf.left, count+1))
-        else:
-            return depth
+        return depth
