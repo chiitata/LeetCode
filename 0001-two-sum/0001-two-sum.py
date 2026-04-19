@@ -1,11 +1,11 @@
 class Solution:
     def twoSum(self, nums, target):
-        num_map = {}
-        for i, num in enumerate(nums):
-            ber = target - num
-            if ber in num_map:
-                return [num_map[ber], i]
-            num_map[num] = i                    
+        targets = {}
+        for i in range(len(nums)):
+            bar = target - nums[i]
+            if nums[i] in targets:
+                return [i, targets[nums[i]]]
+            targets[bar] = i
 
 
 
