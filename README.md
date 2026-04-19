@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chiitata/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chiitata/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/chiitata/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0929-unique-email-addresses](https://github.com/chiitata/LeetCode/tree/master/0929-unique-email-addresses) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chiitata/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/chiitata/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/chiitata/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0929-unique-email-addresses](https://github.com/chiitata/LeetCode/tree/master/0929-unique-email-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chiitata/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chiitata/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chiitata/LeetCode/tree/master/0049-group-anagrams) |
+| [0929-unique-email-addresses](https://github.com/chiitata/LeetCode/tree/master/0929-unique-email-addresses) |
 ## Trie
 |  |
 | ------- |
