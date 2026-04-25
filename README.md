@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chiitata/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiitata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/chiitata/LeetCode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/chiitata/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/chiitata/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chiitata/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chiitata/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chiitata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chiitata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0276-paint-fence](https://github.com/chiitata/LeetCode/tree/master/0276-paint-fence) |
+| [0300-longest-increasing-subsequence](https://github.com/chiitata/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chiitata/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/chiitata/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chiitata/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/chiitata/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
